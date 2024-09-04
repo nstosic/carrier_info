@@ -34,7 +34,7 @@ android {
         minSdkVersion 16
     }
     kotlin {
-        jvmToolchain(8)
+        jvmToolchain(17)
     }
     lintOptions {
         disable 'InvalidPackage'
